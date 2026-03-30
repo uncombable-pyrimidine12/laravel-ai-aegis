@@ -20,7 +20,6 @@ jobs:
         exclude:
           - php: '8.2'
             laravel: '13'
-            stability: prefer-lowest
 
     steps:
       - name: Checkout
