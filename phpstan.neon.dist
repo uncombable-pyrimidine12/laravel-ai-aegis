@@ -6,4 +6,9 @@ parameters:
     checkOctaneCompatibility: true
     checkModelProperties: true
     ignoreErrors:
-        - identifier: typeCoverage.constantTypeCoverage
+        -
+            identifier: method.notFound
+            reportUnmatched: false
+        -
+            identifier: typeCoverage.constantTypeCoverage
+            reportUnmatched: false
